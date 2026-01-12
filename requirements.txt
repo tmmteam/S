@@ -39,6 +39,7 @@ unidecode
 yt-dlp
 git+https://github.com/yt-dlp/yt-dlp
 youtube-search
+py-yt
 py-yt-search
 youtube-search-python
 wget
